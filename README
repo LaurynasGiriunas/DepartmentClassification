@@ -1,0 +1,10 @@
+Goal:
+Create an algorithm, which would assign department group to a correct department group
+
+Data:
+department_groups.csv - has a list of all department groups
+test_set.csv - has a list of department names and which department group it belongs to
+train_set.csv - has a list of department names and which department group it belongs to
+
+Result:
+Algorithm correctly assigned 75% of department names from test_set.csv
